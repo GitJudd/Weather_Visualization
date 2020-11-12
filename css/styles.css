@@ -10325,3 +10325,8 @@ img.zoom-img {
     border:2px solid blue;
 
 }
+
+.fa-stack { 
+  font-size: 2em; }
+  align: center;
+}
