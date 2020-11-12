@@ -4468,7 +4468,7 @@ input[type=button].btn-block {
   }
   .card-group > .card {
     flex: 1 0 0%;
-    margin-bottom: 0;
+    margin-bottom: 10;
   }
   .card-group > .card + .card {
     margin-left: 0;
@@ -10288,4 +10288,40 @@ img.zoom-img {
 .zoom-overlay-open,
 .zoom-overlay-transitioning {
   cursor: default;
+}
+
+
+.myDiv{
+  display:block;
+  float: left;
+}  
+.myDiv img{
+  margin: 0 auto;
+}
+.myDiv2{
+  display:block;
+  float: left;
+}  
+.myDiv2 img{
+  margin: 0 auto;
+}
+#showOne{
+	color:red;
+    border:2px solid red;
+
+}
+#showTwo{
+	color:green;
+    border:2px solid green;
+
+}
+#showThree{
+	color:blue;
+    border:2px solid gray;
+
+}
+#showFour{
+	color:blue;
+    border:2px solid blue;
+
 }
