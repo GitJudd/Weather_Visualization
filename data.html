@@ -46,10 +46,21 @@
                             <a class="nav-link" href="wind.html">Wind Speed</a>
                         </nav>
                     </div>
-                    <a class="nav-link collapsed" href="compare.html">
+                    <a class="nav-link collapsed" href="#" data-toggle="collapse" data-target="#collapseVisuals" aria-expanded="false" aria-controls="collapseLayouts">
                         <div class="sb-nav-link-icon"><i class="fas fa-not-equal"></i></div>
                         Comparisons
+                        <div class="sb-sidenav-collapse-arrow"><i class="fas fa-angle-down"></i></div>
                     </a>
+                    <div class="collapse" id="collapseVisuals" aria-labelledby="headingOne" data-parent="#sidenavAccordion">
+                        <nav class="sb-sidenav-menu-nested nav">
+                            <a class="nav-link" href="compareall.html">Compare All</a>
+                            <a class="nav-link" href="tempvs.html">Max Temp vs </a>
+                            <a class="nav-link" href="humidityvs.html">Humidity vs </a>
+                            <a class="nav-link" href="cloudvs.html">Cloudiness vs </a>
+                            <a class="nav-link" href="windvs.html">Wind Speed vs </a>
+                            <a class="nav-link" href="compare.html">Ineractive Testing </a>
+                        </nav>
+                    </div>
                     <a class="nav-link collapsed" href="data.html">
                         <div class="sb-nav-link-icon"><i class="fas fa-table"></i></div>
                         Data Set
@@ -70,8 +81,8 @@
                                 Below is the data used to graph the charts. It has been imported directly from a csv file using Pandas and Jquery.
                             </div>
                             <div class="card-body">
-                                <div class="table-responsive" id="content">
-                                    <table class="table hover"></table>
+                                <div class="table-responsive table-sm" id="content">
+                                    
                                 </div>
                             </div>
                         </div>
