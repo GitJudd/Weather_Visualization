@@ -49,30 +49,39 @@ The website must, at the top of every page, have a navigation menu that:
 This section contains screenshots from the end user as to the minimum expectations followed by a screenshot of the final product.
 
 #### <a id="landing-page"></a>Landing page - Sample
-![Landing page large screen](Images/landingResize.png)
+![Landing page large screen](images/landingResize.png)
+---
 #### <a id="landing-page"></a>Landing page - Final
-![Landing page large screen](Images/landingFull_final.PNG)
----
+![Landing page large screen](images/landingFull_final.PNG)
+
+
+
+#### <a id="comparisons-page"></a>Comparisons page
+![comparison page large screen](images/comparison-lg.png)
 ---
 #### <a id="comparisons-page"></a>Comparisons page
-![comparison page large screen](Images/comparison-lg.png)
-#### <a id="comparisons-page"></a>Comparisons page
-![comparison page large screen](Images/comparison_final.png)
----
+![comparison page large screen](images/comparison_final.png)
+
+
+
+#### <a id="data-page"></a>Data page
+![data page large screen](images/data-lg.png)
 ---
 #### <a id="data-page"></a>Data page
-![data page large screen](Images/data-lg.png)
-#### <a id="data-page"></a>Data page
-![data page large screen](Images/data_final.png)
----
+![data page large screen](images/data_final.png)
+
+
+
+#### <a id="visualization-pages"></a>Visualization pages
+![visualize page large screen](images/visualize-lg.png)
 ---
 #### <a id="visualization-pages"></a>Visualization pages
-![visualize page large screen](Images/visualize-lg.png)
-#### <a id="visualization-pages"></a>Visualization pages
-![visualize page large screen](Images/visualize_final.png)
----
+![visualize page large screen](images/visualize_final.png)
+
+
+
+#### <a id="navigation-menu"></a>Navigation menu
+![nav menu small screen](images/nav-sm.png)
 ---
 #### <a id="navigation-menu"></a>Navigation menu
-![nav menu small screen](Images/nav-sm.png)
-#### <a id="navigation-menu"></a>Navigation menu
-![nav menu small screen](Images/nav_final.png)
+![nav menu small screen](images/nav_final.png)
