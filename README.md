@@ -51,7 +51,7 @@ This section contains screenshots from the end user as to the minimum expectatio
 #### <a id="landing-page"></a>Landing page - Sample
 ![Landing page large screen](Images/landingResize.png)
 #### <a id="landing-page"></a>Landing page - Final
-![Landing page large screen](Images/landingFull_final.png)
+![Landing page large screen](Images/landingFull_final.PNG)
 
 #### <a id="comparisons-page"></a>Comparisons page
 ![comparison page large screen](Images/comparison-lg.png)
