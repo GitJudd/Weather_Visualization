@@ -44,7 +44,7 @@ The website must, at the top of every page, have a navigation menu that:
 * Use meaningful glyphicons next to links in the header.
 * Have visualization navigation on every visualizations page with an active state.
 
-### Screenshots - Examples of expectations. 
+### Screenshots - Examples of expectations vs the final product. 
 
 This section contains screenshots from the end user as to the minimum expectations followed by a screenshot of the final product. This is meant to be an interactive experience, so the screenshots only show a limited view of the final product. 
 
