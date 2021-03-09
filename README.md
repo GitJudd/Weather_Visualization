@@ -46,37 +46,27 @@ The website must, at the top of every page, have a navigation menu that:
 
 ### Screenshots - Examples of expectations. 
 
-This section contains screenshots from the end user as to the minimum expectations followed by a screenshot of the final product.
+This section contains screenshots from the end user as to the minimum expectations followed by a screenshot of the final product. This is meant to be an interactive experience, so the screenshots only show a limited view of the final product. 
 
-#### <a id="landing-page"></a>Landing page - Sample
-![Landing page large screen](images/landingResize.png)
 ---
-#### <a id="landing-page"></a>Landing page - Final
-![Landing page large screen](images/landingFull_final.PNG)
 
+Sample Landing Page            |  Final Landing Page
+:-------------------------:|:-------------------------:
+![Landing page large screen](images/landingResize.png)  |  ![Landing page large screen](images/landingFull_final.PNG)
 
-
-#### <a id="comparisons-page"></a>Comparisons page
-![comparison page large screen](images/comparison-lg.png)
 ---
-#### <a id="comparisons-page"></a>Comparisons page
-![comparison page large screen](images/comparison_final.png)
 
+Sample Comparison Page            |  Final Comparison Page
+:-------------------------:|:-------------------------:
+![comparison page large screen](images/comparison-lg.png)  |  ![comparison page large screen](images/comparison_final.png)
 
-
-#### <a id="data-page"></a>Data page
-![data page large screen](images/data-lg.png)
 ---
-#### <a id="data-page"></a>Data page
-![data page large screen](images/data_final.png)
 
+Sample Data Page            |  Final Data Page
+:-------------------------:|:-------------------------:
+![data page large screen](images/data-lg.png)  |  ![data page large screen](images/data_final.png)
 
-
-#### <a id="visualization-pages"></a>Visualization pages
-![visualize page large screen](images/visualize-lg.png)
 ---
-#### <a id="visualization-pages"></a>Visualization pages
-![visualize page large screen](images/visualize_final.png)
 
 Sample Visualization Page            |  Final Visualization Page
 :-------------------------:|:-------------------------:
