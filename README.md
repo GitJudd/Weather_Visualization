@@ -53,14 +53,26 @@ This section contains screenshots from the end user as to the minimum expectatio
 #### <a id="landing-page"></a>Landing page - Final
 ![Landing page large screen](Images/landingFull_final.PNG)
 ---
+---
 #### <a id="comparisons-page"></a>Comparisons page
 ![comparison page large screen](Images/comparison-lg.png)
-
+#### <a id="comparisons-page"></a>Comparisons page
+![comparison page large screen](Images/comparison_final.png)
+---
+---
 #### <a id="data-page"></a>Data page
 ![data page large screen](Images/data-lg.png)
-
+#### <a id="data-page"></a>Data page
+![data page large screen](Images/data_final.png)
+---
+---
 #### <a id="visualization-pages"></a>Visualization pages
 ![visualize page large screen](Images/visualize-lg.png)
-
+#### <a id="visualization-pages"></a>Visualization pages
+![visualize page large screen](Images/visualize_final.png)
+---
+---
 #### <a id="navigation-menu"></a>Navigation menu
 ![nav menu small screen](Images/nav-sm.png)
+#### <a id="navigation-menu"></a>Navigation menu
+![nav menu small screen](Images/nav_final.png)
