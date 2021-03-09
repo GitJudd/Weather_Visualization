@@ -35,7 +35,7 @@ The website must, at the top of every page, have a navigation menu that:
 
 ### Considerations
 
-* The images can be found: [assets folder](Resources/assets).
+* The images can be found here: [assets folder](Resources/assets/images).
 * Bootstrap is required.
 * Deploy the website to GitHub pages, with the website working on a live, publicly accessible URL as a result.
 * Use a CSS media query for the navigation menu.
@@ -49,9 +49,9 @@ The website must, at the top of every page, have a navigation menu that:
 This section contains screenshots from the end user as to the minimum expectations followed by a screenshot of the final product.
 
 #### <a id="landing-page"></a>Landing page - Sample
-![Landing page large screen](Images/landingResize.png){:class="img-responsive"}
+![Landing page large screen](Images/landingResize.png)
 #### <a id="landing-page"></a>Landing page - Final
-![Landing page large screen](Images/landingFull_final.png){:class="img-responsive"}
+![Landing page large screen](Images/landingFull_final.png)
 
 #### <a id="comparisons-page"></a>Comparisons page
 ![comparison page large screen](Images/comparison-lg.png)
