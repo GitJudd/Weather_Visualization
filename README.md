@@ -81,7 +81,11 @@ This section contains screenshots from the end user as to the minimum expectatio
 
 
 #### <a id="navigation-menu"></a>Navigation menu
-![nav menu small screen](images/nav-sm.png)
+
 ---
 #### <a id="navigation-menu"></a>Navigation menu
-![nav menu small screen](images/nav_final.png)
+
+
+Sample Navigation Menu            |  Final Navigation Menu
+:-------------------------:|:-------------------------:
+![nav menu small screen](images/nav-sm.png)  |  ![nav menu small screen](images/nav_final.png)
