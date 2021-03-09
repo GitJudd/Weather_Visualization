@@ -78,13 +78,11 @@ This section contains screenshots from the end user as to the minimum expectatio
 #### <a id="visualization-pages"></a>Visualization pages
 ![visualize page large screen](images/visualize_final.png)
 
-
-
-#### <a id="navigation-menu"></a>Navigation menu
+Sample Visualization Page            |  Final Visualization Page
+:-------------------------:|:-------------------------:
+![visualize page large screen](images/visualize-lg.png)  |  ![visualize page large screen](images/visualize_final.png)
 
 ---
-#### <a id="navigation-menu"></a>Navigation menu
-
 
 Sample Navigation Menu            |  Final Navigation Menu
 :-------------------------:|:-------------------------:
