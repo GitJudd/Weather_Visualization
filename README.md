@@ -46,10 +46,12 @@ The website must, at the top of every page, have a navigation menu that:
 
 ### Screenshots - Examples of expectations. 
 
-This section contains screenshots from the end user as to the minimum expectations.
+This section contains screenshots from the end user as to the minimum expectations followed by a screenshot of the final product.
 
-#### <a id="landing-page"></a>Landing page
-![Landing page large screen](Images/landingResize.png)
+#### <a id="landing-page"></a>Landing page - Sample
+![Landing page large screen](Images/landingResize.png){:class="img-responsive"}
+#### <a id="landing-page"></a>Landing page - Final
+![Landing page large screen](Images/landingFull_final.png){:class="img-responsive"}
 
 #### <a id="comparisons-page"></a>Comparisons page
 ![comparison page large screen](Images/comparison-lg.png)
