@@ -1,4 +1,4 @@
-# Web Design Project - Web Visualization Dashboard
+# Web Visualization Dashboard - Lite
 
 ## Background
 
@@ -32,3 +32,14 @@ The website must, at the top of every page, have a navigation menu that:
 * Provides two more text links: "Comparisons," which links to the comparisons page, and "Data," which links to the data page.
 * A breakdown of the individual charts would be nice, but is not required.
 * Is responsive.
+
+### Considerations
+
+* The images can be found: [assets folder](Resources/assets).
+* Bootstrap is required.
+* Deploy the website to GitHub pages, with the website working on a live, publicly accessible URL as a result.
+* Use a CSS media query for the navigation menu.
+* Feel free to take some liberty in the visual aspects, but keep the core functionality the same.
+* Add extra visualizations! The more comparisons the better.
+* Use meaningful glyphicons next to links in the header.
+* Have visualization navigation on every visualizations page with an active state.
